@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1586072536316,
+  "timestamp": 1586073119879,
   "index": "https://koolkamalkishor.github.io/corona-tracker/index.html",
   "assetGroups": [
     {
@@ -20,7 +20,7 @@
         "https://koolkamalkishor.github.io/corona-tracker/polyfills-es5.3b086f6b57ed956ec1ac.js",
         "https://koolkamalkishor.github.io/corona-tracker/runtime-es2015.c6693431f89fc3f624ae.js",
         "https://koolkamalkishor.github.io/corona-tracker/runtime-es5.c6693431f89fc3f624ae.js",
-        "https://koolkamalkishor.github.io/corona-tracker/styles.627b453fce58dff3d30f.css",
+        "https://koolkamalkishor.github.io/corona-tracker/styles.f7cda86ce425602a2e79.css",
         "https://koolkamalkishor.github.io/corona-tracker/xlsx-es2015.f6f869cbd0b7b4ea2c23.js",
         "https://koolkamalkishor.github.io/corona-tracker/xlsx-es5.f6f869cbd0b7b4ea2c23.js"
       ],
@@ -702,7 +702,7 @@
     "https://koolkamalkishor.github.io/corona-tracker/assets/screenshots/sc3.png": "3e75b000246895f0b835fac6f7516f8115f7d1d0",
     "https://koolkamalkishor.github.io/corona-tracker/assets/screenshots/sc4.png": "baeae8e5ea1a9af4d1147e86a8441c0329501cb3",
     "https://koolkamalkishor.github.io/corona-tracker/assets/scss/_variables.scss": "abd9b7ce444b766374625273af8e1457d21a0be5",
-    "https://koolkamalkishor.github.io/corona-tracker/assets/scss/app.scss": "6e2eb4c54636f45c3341982867ffa166eb6a04c4",
+    "https://koolkamalkishor.github.io/corona-tracker/assets/scss/app.scss": "aa3d78344184d4707ae6200cfc64ef2e1351e30f",
     "https://koolkamalkishor.github.io/corona-tracker/assets/scss/bootstrap.scss": "2efc0abbe83c5d4eeb6261847c2ada7d67f3b1fd",
     "https://koolkamalkishor.github.io/corona-tracker/assets/scss/custom/components/_accordions.scss": "8f5a798193b5f7370346f6ccaa5ad669922cb83b",
     "https://koolkamalkishor.github.io/corona-tracker/assets/scss/custom/components/_backgrounds.scss": "0d22ca705af7ac37b45bde7de1c6e77297ef679d",
@@ -754,7 +754,7 @@
     "https://koolkamalkishor.github.io/corona-tracker/fa-solid-900.82905d8d1c06969df11c.svg": "a24f75395c61216cb50d17e9c1d159984a464097",
     "https://koolkamalkishor.github.io/corona-tracker/fa-solid-900.b5596f4d339f99e3d69b.eot": "6275300c533b525bd590a7e8190ee00c67928313",
     "https://koolkamalkishor.github.io/corona-tracker/fa-solid-900.b70cea0339374107969e.ttf": "3f760416638f6459ade7251b80fd7bc27d6ad1c6",
-    "https://koolkamalkishor.github.io/corona-tracker/index.html": "f5003fbe5055311df550f75567505c1754dfdc67",
+    "https://koolkamalkishor.github.io/corona-tracker/index.html": "03caece46896bae69236436049fd9922ddb6d2e7",
     "https://koolkamalkishor.github.io/corona-tracker/main-es2015.62a5249bc21b58ccd4e6.js": "ed2986b4a37aa6670fcf5d6f735cf24632aea87d",
     "https://koolkamalkishor.github.io/corona-tracker/main-es5.62a5249bc21b58ccd4e6.js": "ec3e35218028869638431934460a67de349bc38c",
     "https://koolkamalkishor.github.io/corona-tracker/manifest.webmanifest": "889f5b1daa74b03f8f14543df5212e4edb89581a",
@@ -769,7 +769,7 @@
     "https://koolkamalkishor.github.io/corona-tracker/polyfills-es5.3b086f6b57ed956ec1ac.js": "326a0d41fd1ce12b57c3a89f39cdb80a6196a6dc",
     "https://koolkamalkishor.github.io/corona-tracker/runtime-es2015.c6693431f89fc3f624ae.js": "dc5bf23d20630c2e2a23324fb84bf967d8bd2e3c",
     "https://koolkamalkishor.github.io/corona-tracker/runtime-es5.c6693431f89fc3f624ae.js": "812632e24eb4b5a6f15221453b4ea1eeb32b9b27",
-    "https://koolkamalkishor.github.io/corona-tracker/styles.627b453fce58dff3d30f.css": "20e11089262eca48ccf0f4e68ac383526d3ec607",
+    "https://koolkamalkishor.github.io/corona-tracker/styles.f7cda86ce425602a2e79.css": "c28d0049add16eb9025fb6962ffcc00d09345830",
     "https://koolkamalkishor.github.io/corona-tracker/xlsx-es2015.f6f869cbd0b7b4ea2c23.js": "e588e9bf4640059bd1694a35f2c9c7cc7c8c9cda",
     "https://koolkamalkishor.github.io/corona-tracker/xlsx-es5.f6f869cbd0b7b4ea2c23.js": "d488b50fb122b8aaba74a08823b53598d746e23b"
   },

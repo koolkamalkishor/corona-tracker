@@ -29,3 +29,78 @@ File: Main Css File
 
 // Plugins
 @import "custom/plugins/waves";
+
+
+
+
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #adb5bd;
+    text-align: left;
+    background-color: #f4f5fa;
+}
+.navbar-custom {
+    background-color: #ffffff;
+    box-shadow: 0 0 35px 0 rgba(54, 61, 71, 0.15);
+    position: fixed;
+    left: 0;
+    right: 0;
+    height: 90px;
+    z-index: 100;
+    padding: 5px 12px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin: 10px 0;
+    font-weight: 600;
+    font-family: "Karla", sans-serif;
+    // color: #21D99B;
+    color: #686868;
+}
+
+.card-box {
+    /* margin-bottom: 1.875rem; */
+    /* border: none; */
+    box-shadow: 0 2px 18px 1px rgba(49,53,72,.1);
+    border-radius: .45rem;
+    background-color: #ffffff;
+    padding: 1rem;
+    /* box-shadow: 0 0.75rem 6rem rgba(56, 65, 74, 0.03); */
+    margin-bottom: 24px;
+    box-shadow: 0 2px 18px 10px rgba(49,53,72,.1);
+    border-radius: 0.25rem;
+}
+
+.infectedCountries .infectedCountry .infectedCountryName {
+    color: #27292a;
+    display: block;
+    margin-bottom: 3px;
+}
+
+label {
+    font-weight: 500;
+    color: #7a7a7a;
+}
+
+.bg-d {
+    background-color: #ffffff !important;
+}
+
+.infect-box{
+    padding: 30px;
+}
+
+.waves-effect{
+    margin-top: 8px !important;
+}
+
+.affected{
+    height:550px;
+}
+
+.perfect-scrollbar{
+    height:510px !important;
+}
