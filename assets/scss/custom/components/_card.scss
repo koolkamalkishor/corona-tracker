@@ -115,6 +115,14 @@
             margin-left: 12px;
         }
     }
+
+    .card-box {
+        background-color: #323a46;
+        padding: 1rem;
+        box-shadow: 0 0.75rem 6rem rgba(56,65,74,.03);
+        margin-bottom: 24px;
+        border-radius: .25rem;
+    }
 }
 
 // Draggable cards
